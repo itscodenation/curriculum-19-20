@@ -1,4 +1,4 @@
-# Unit 3:Tic Tac toe
+# Unit 3: Tic Tac toe
 
 ## Overview
 In this unit, coders will create a Tic Tac Toe game. The users will alternate clicking buttons on the board which will change to an X or an O. When one user plays 3 in a row, the game will end and display a message to the winner. To create this project, coders will write and call multiple functions including ones with multiple parameters and conditional statements.
